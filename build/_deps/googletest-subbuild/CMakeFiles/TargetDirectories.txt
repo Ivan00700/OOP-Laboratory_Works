@@ -1,0 +1,3 @@
+C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

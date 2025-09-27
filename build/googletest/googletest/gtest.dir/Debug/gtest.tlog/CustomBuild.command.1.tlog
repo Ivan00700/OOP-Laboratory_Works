@@ -1,0 +1,10 @@
+^C:\USERS\ИВАН\ONEDRIVE\ДОКУМЕНТЫ\C PROJECTS\3 SEMESTER\LABA_01\GOOGLETEST\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01" "-BC:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build" --check-stamp-file "C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/googletest/googletest/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

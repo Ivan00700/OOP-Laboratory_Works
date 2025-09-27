@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/tests[1]_tests.cmake")
+  include("C:/Users/Иван/OneDrive/Документы/C projects/3 semester/Laba_01/build/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()
